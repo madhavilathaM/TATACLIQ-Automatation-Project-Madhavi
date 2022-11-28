@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results total="9" passed="9" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-11-28T08:53:00Z" name="Surefire suite" finished-at="2022-11-28T08:56:01Z" duration-ms="180670">
+    <groups>
+    </groups>
+    <test started-at="2022-11-28T08:53:00Z" name="Surefire test" finished-at="2022-11-28T08:56:01Z" duration-ms="180670">
+      <class name="Tatacliq.Tatacliq_Madhavi">
+        <test-method is-config="true" signature="beforetest()[pri:0, instance:Tatacliq.Tatacliq_Madhavi@55fe41ea]" started-at="2022-11-28T14:23:00Z" name="beforetest" finished-at="2022-11-28T14:23:14Z" duration-ms="13558" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforetest -->
+        <test-method signature="Testcase1()[pri:0, instance:Tatacliq.Tatacliq_Madhavi@55fe41ea]" started-at="2022-11-28T14:23:14Z" name="Testcase1" finished-at="2022-11-28T14:23:14Z" duration-ms="51" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Testcase1 -->
+        <test-method signature="Testcase2()[pri:1, instance:Tatacliq.Tatacliq_Madhavi@55fe41ea]" started-at="2022-11-28T14:23:14Z" name="Testcase2" finished-at="2022-11-28T14:24:12Z" duration-ms="58160" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Testcase2 -->
+        <test-method signature="Testcase4()[pri:3, instance:Tatacliq.Tatacliq_Madhavi@55fe41ea]" started-at="2022-11-28T14:24:12Z" name="Testcase4" finished-at="2022-11-28T14:24:21Z" duration-ms="9289" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Testcase4 -->
+        <test-method signature="Testcase5()[pri:4, instance:Tatacliq.Tatacliq_Madhavi@55fe41ea]" started-at="2022-11-28T14:24:21Z" name="Testcase5" finished-at="2022-11-28T14:24:29Z" duration-ms="7242" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Testcase5 -->
+        <test-method signature="Testcase6()[pri:5, instance:Tatacliq.Tatacliq_Madhavi@55fe41ea]" started-at="2022-11-28T14:24:29Z" name="Testcase6" finished-at="2022-11-28T14:24:50Z" duration-ms="20978" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Testcase6 -->
+        <test-method signature="Testcase7()[pri:6, instance:Tatacliq.Tatacliq_Madhavi@55fe41ea]" started-at="2022-11-28T14:24:50Z" name="Testcase7" finished-at="2022-11-28T14:25:05Z" duration-ms="15537" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Testcase7 -->
+        <test-method signature="Testcase8()[pri:7, instance:Tatacliq.Tatacliq_Madhavi@55fe41ea]" started-at="2022-11-28T14:25:05Z" name="Testcase8" finished-at="2022-11-28T14:25:28Z" duration-ms="22922" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Testcase8 -->
+        <test-method signature="Testcase9()[pri:8, instance:Tatacliq.Tatacliq_Madhavi@55fe41ea]" started-at="2022-11-28T14:25:28Z" name="Testcase9" finished-at="2022-11-28T14:25:43Z" duration-ms="15418" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Testcase9 -->
+        <test-method signature="testcase10()[pri:9, instance:Tatacliq.Tatacliq_Madhavi@55fe41ea]" started-at="2022-11-28T14:25:43Z" name="testcase10" finished-at="2022-11-28T14:26:01Z" duration-ms="17488" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testcase10 -->
+      </class> <!-- Tatacliq.Tatacliq_Madhavi -->
+    </test> <!-- Surefire test -->
+  </suite> <!-- Surefire suite -->
+</testng-results>
